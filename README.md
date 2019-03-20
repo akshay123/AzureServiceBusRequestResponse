@@ -12,6 +12,7 @@ https://github.com/Azure/azure-service-bus/tree/master/samples/DotNet/Microsoft.
 Things to do before you make it work; 
 1. Make sure you create Azure Service bus (ASB). 
 2. Create two queues in the same ASB Namespace 
+
 a. requestqueue
 b. responsequeue
 
