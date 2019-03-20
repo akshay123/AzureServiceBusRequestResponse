@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReqRespServer", "ReqRespServer\ReqRespServer.csproj", "{DE7AF697-C0E2-40BC-BD12-A1FCAFA453A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReqRespClient", "ReqRespClient\ReqRespClient.csproj", "{334EF36C-3419-485E-B290-55CDB82A9595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{21B49A90-9756-4A3E-ADCB-637C8E584343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE7AF697-C0E2-40BC-BD12-A1FCAFA453A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7AF697-C0E2-40BC-BD12-A1FCAFA453A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7AF697-C0E2-40BC-BD12-A1FCAFA453A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7AF697-C0E2-40BC-BD12-A1FCAFA453A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{334EF36C-3419-485E-B290-55CDB82A9595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334EF36C-3419-485E-B290-55CDB82A9595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334EF36C-3419-485E-B290-55CDB82A9595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334EF36C-3419-485E-B290-55CDB82A9595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B49A90-9756-4A3E-ADCB-637C8E584343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B49A90-9756-4A3E-ADCB-637C8E584343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B49A90-9756-4A3E-ADCB-637C8E584343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B49A90-9756-4A3E-ADCB-637C8E584343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
