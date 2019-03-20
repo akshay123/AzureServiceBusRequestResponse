@@ -22,12 +22,6 @@ a. requestqueue
 b. responsequeue
 3. Go to Utility Project and enter your Service Bus connection string. 
 
-a. requestqueue
-
-b. responsequeue
-
-3. Go to Utility Project and enter your Service Bus connection string.
-
 Running
 -------
 
